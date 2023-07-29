@@ -1,0 +1,13 @@
+transformers >4.0.1
+accelerate 
+torch 
+xformers
+pandas
+openai
+tiktoken
+faiss-cpu
+langchain
+beautifulsoup4
+streamlit
+streamlit_chat
+black
